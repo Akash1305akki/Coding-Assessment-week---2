@@ -1,2 +1,3 @@
-# Coding-Assessment-week---2
-programs for Palindrome and Sum of odd numbers in a series 
+
+1) Programs to find Palindrome or not
+2) Program to find the Sum of odd numbers in a series 
